@@ -21,7 +21,7 @@ make
 
 ## How to play
 ### Rule
-Control your character to collect all items in the map. Collect all items in map before exit.
+Control your character to collect all items in the map and reach the exit.
 
 ### Command
 
@@ -79,6 +79,6 @@ The character is defined in file follow like these
 <!-- MARKDOWN LINKS -->
 [Watch full demo]: https://www.youtube.com/watch?v=uNdFxDJdcTA
 [MiniLibX]: https://github.com/42Paris/minilibx-linux
-[MiniLibX Document]: https://harm-smits.github.io/42docs/libs/minilibx/introduction.html
+[MiniLibX Documentation]: https://harm-smits.github.io/42docs/libs/minilibx/introduction.html
 [MiniLibX Tutorial]: https://aurelienbrabant.fr/blog/pixel-drawing-with-the-minilibx
 [MiniLibX Example]: https://github.com/terry-yes/mlx_example
