@@ -11,7 +11,7 @@ A 2D graphic game with MinilibX.
 
 Clone this repository to your computer:
 ```sh
-git clone https://github.com/viruskizz/42bangkok-so_long.git
+git clone https://github.com/MatPizzolo/Solong.git
 ```
 
 First compile and install library
@@ -35,10 +35,10 @@ You can control the main character with the specific keys below.
 
 |Key|Description|
 |--|--|
-| `A` or ⬅️ | Walk Left|
-| `W` or ⬆️ | Walk Up|
-| `S` or ⬇️ | Walk Down|
-| `D` or ➡️ | Walk Right|
+| `A` | Walk Left|
+| `W` | Walk Up|
+| `S` | Walk Down|
+| `D` | Walk Right|
 | `Esc`| Exit Game |
 
 
@@ -71,7 +71,7 @@ The character is defined in file follow like these
 
 ## Resources
 - [MiniLibX]
-- [MiniLibX Document]
+- [MiniLibX Documentation]
 - [MiniLibX Tutorial]
 - [MiniLibX Example]
 
