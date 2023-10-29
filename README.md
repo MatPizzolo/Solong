@@ -7,7 +7,7 @@ A 2D graphic game with MinilibX.
 ![so_long-cover](readme-img/screen-shot.png)
 
 
-## Installation
+## Installation & Usage
 
 Clone this repository to your computer:
 ```sh
@@ -19,16 +19,15 @@ First compile and install library
 make
 ```
 
-## How to play
-### Rule
-Control your character to collect all items in the map and reach the exit.
-
-### Command
-
 Run the game with a specific map file as argument.
 ```
 ./so_long "maps/first.ber"
 ```
+
+
+## How to play
+### Rule
+Control your character to collect all items in the map and reach the exit.
 
 ### Key control
 You can control the main character with the specific keys below.
